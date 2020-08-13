@@ -2,7 +2,7 @@
 
 ## Descripcion:
 
-* Este proyecto fue une-commerce realizado durante la cursada del Coding Bootcamp en Plataforma 5, con un limite de 2 semanas para terminarlo. Fue nuestra primer experiencia trabajando en un equipo de 5 integrantes, con metodologias agiles (SCRUM) y desarrollando un proyecto desde 0. Un desafio a nivel developer muy grande y satisfactorio.
+* Este proyecto fue un e-commerce realizado durante la cursada del Coding Bootcamp en Plataforma 5, con un limite de dos semanas para terminarlo. Fue nuestra primer experiencia trabajando en un equipo de cinco integrantes, con metodologias agiles (SCRUM) y desarrollando un proyecto desde 0. Un desafio a nivel desarrollador muy grande y satisfactorio.
 
 
 ## Este proyecto fue construido completamente con: 
