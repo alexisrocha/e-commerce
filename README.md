@@ -1,7 +1,7 @@
 # e-commerce
 
-e-commerce
 Construido con 🛠️
+
 Este proyecto fue construido completamente con NodeJs y varias librearias que fueron de gran utilidad.
 
 NodeJS - El mejor entorno de tiempo de ejecución de JavaScript
