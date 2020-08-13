@@ -7,19 +7,20 @@
 
 ## Este proyecto fue construido completamente con: 
 
-* NodeJS - El mejor entorno de tiempo de ejecución de JavaScript
-* PostgreSQL - Gestión de base de datos relacionales
-* Passport - Passport es el middleware de autenticación para Node.js
-* React - Libreria de javascript para la construccion de UI
+* [NodeJS](https://nodejs.org/es/docs/) - El mejor entorno de tiempo de ejecución de JavaScript
+* [PostgreSQL](https://www.postgresql.org/) - Gestión de base de datos relacionales
+* [Passport](http://www.passportjs.org/) - Passport es el middleware de autenticación para Node.js 
+* [React](https://es.reactjs.org/) - Libreria de javascript para la construccion de UI
 
 
 ## Encargados de llevar a cabo el proyecto:
 
-* Nicolas Esquivel - Trabajo Inicial -> Esqui
-* Tomas Gordyn - Trabajo Inicial -> Tomi
-* Hernan Goldenberg - Trabajo Inicial -> Ruso
-* Ariel Blas - Trabajo Inicial -> Ari
-* Alexis Rocha - Trabajo Inicial -> Alex
+* Alexis Rocha -> [Alex](https://github.com/alexisrocha)
+* Nicolas Esquivel -> [Esqui](https://github.com/NicolasEsqui01)
+* Tomas Gordyn -> [Tomi](https://github.com/tgordyn)
+* Hernan Goldenberg -> [Ruso](https://github.com/hgoldenberg)
+* Ariel Blas -> [Ari](https://github.com/ArielBlas)
+
 
 
 
