@@ -9,12 +9,14 @@ Fue nuestra primer experiencia trabajando en un equipo de cinco integrantes, con
 * [Sequelize](https://sequelize.org/) - Gestión de base de datos relacionales
 * [Passport](http://www.passportjs.org/) - Passport es el middleware de autenticación para Node.js 
 * [React](https://es.reactjs.org/) - Libreria de javascript para la construccion de UI
-
+* [Sass](https://sass-lang.com/) - Extensión CSS de calidad profesional más maduro, estable y poderoso  del mundo.
+* [Styled-components](https://styled-components.com/) - Los mejores bits de ES6 y CSS para diseñar aplicaciones
+* [Bootstrap](https://getbootstrap.com/) - El kit de herramientas de código abierto de front-end más popular del mundo.
 
 ## Instalacion:
 * Clonar este proyecto 
 ```bash
-git clone 
+git clone https://github.com/alexisrocha/e-commerce
 ```
 * Instalar dependencias
 ```bash
