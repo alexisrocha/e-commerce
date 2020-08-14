@@ -12,11 +12,11 @@ Fue nuestra primer experiencia trabajando en un equipo de cinco integrantes, con
 
 ## Instalacion:
 Para instalar y correr este proyecto:
-Ejecute en el back
+* Ejecute en el front
 ```bash
 npm run build
 ```
-Ejecute en el front
+* Ejecute en el back
 ```bash
 npm start
 ```
