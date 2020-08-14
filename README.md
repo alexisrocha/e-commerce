@@ -20,6 +20,13 @@ npm run build
 ```bash
 npm start
 ```
+## Vistas: 
+* [Vista Home](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Home.png)
+* [Vista Home con productos](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Home%20con%20productos.png)
+* [Vista Productos](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Productos.png)
+* [Vista Registrar](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Registrar.png)
+* [Vista Mis datos](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Mis%20datos.png)
+
 ## Encargados de llevar a cabo el proyecto:
 * Alexis Rocha -> [Alex](https://github.com/alexisrocha)
 * Nicolas Esquivel -> [Esqui](https://github.com/NicolasEsqui01)
