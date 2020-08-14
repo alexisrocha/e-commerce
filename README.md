@@ -22,12 +22,12 @@ git clone https://github.com/alexisrocha/e-commerce
 ```bash
 npm install
 ```
-* Para correr este proyecto
-** Ejecute en el front
+Para correr este proyecto
+* Ejecute en el front
 ```bash
 npm run build
 ```
-** Ejecute en el back
+* Ejecute en el back
 ```bash
 npm start
 ```
@@ -35,8 +35,14 @@ npm start
 * [Vista Home](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Home.png)
 * [Vista Home con productos](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Home%20con%20productos.png)
 * [Vista Productos](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Productos.png)
+* [Vista Producto individual](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Vista%20producto%20individual)
+* [Vista Descripcion producto](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Vista%20descripcion%20producto.png)
+* [Vista Reseña producto](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Vista%20resen%CC%83a%20producto.png)
 * [Vista Registrar](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Registrar.png)
 * [Vista Mis datos](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Mis%20datos.png)
+* [Vista Carrito](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Vista%20carrito.png)
+* [Vista Carrito final](https://github.com/alexisrocha/e-commerce/blob/master/screenshots/Vista%20ultima%20carrito.png)
+
 
 ## Encargados de llevar a cabo el proyecto:
 * Alexis Rocha -> [Alex](https://github.com/alexisrocha)
