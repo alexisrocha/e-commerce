@@ -14,11 +14,11 @@ Fue nuestra primer experiencia trabajando en un equipo de cinco integrantes, con
 * [Bootstrap](https://getbootstrap.com/) - El kit de herramientas de código abierto de front-end más popular del mundo.
 
 ## Instalacion:
-* Clonar este proyecto 
+Clonar este proyecto 
 ```bash
 git clone https://github.com/alexisrocha/e-commerce
 ```
-* Instalar dependencias
+Instalar dependencias
 ```bash
 npm install
 ```
